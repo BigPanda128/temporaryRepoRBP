@@ -10,7 +10,7 @@ public class tempDriver {
 		
 		for (int i = 0; i < size; ++i){
 			array[i] = i*i;
-			System.out.println("Array1 has " + array[i] + " in slot " + i);
+			System.out.println("Array has " + array[i] + " in position " + i);
 		}
 		System.out.println("Notice a pattern?");
 	
